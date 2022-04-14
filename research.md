@@ -1,12 +1,14 @@
 ---
 title: Research
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+  Often the ML techniques require careful tuning and adaptation to effectively address the specific problems economists are interested in
+                                                                                                    -Susan Athey & Guido Imbens
+feature_image: "https://github.com/ysong126/ysong126.github.io/blob/main/assets/ship.jpeg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
+<!---
 # Heading 1
 
 ## Heading 2
@@ -142,3 +144,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
 ```
+--->
