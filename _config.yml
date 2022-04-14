@@ -128,7 +128,7 @@ navigation_header:
 #- title: Blog
 #  url: /blog/
 - title: Blog
-  url: /Blog/
+  url: /categories/
 - title: Search
   url: /search/
 
